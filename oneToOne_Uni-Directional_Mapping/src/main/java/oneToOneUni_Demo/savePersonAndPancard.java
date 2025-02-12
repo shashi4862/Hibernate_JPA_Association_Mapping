@@ -13,7 +13,7 @@ public class savePersonAndPancard
 		
 		person p = new person();
 		p.setName("Shashi");
-		p.setPhone(7870877778l);
+		p.setPhone(7870876678l);
 		
 		panCard card = new panCard();
 		card.setNumber("asdf1234g");
