@@ -14,10 +14,10 @@ public class saveUserAndAadharCard {
 		
 		User u = new User();
 		u.setName("Shashi");
-		u.setPhone(7870877778l);
+		u.setPhone(7870876678l);
 		
 		AadharCard a=new AadharCard();
-		a.setNumber(820002015078l);
+		a.setNumber(820202015078l);
 		a.setAddress("Dhanbad");
 		
 		u.setCard(a);
