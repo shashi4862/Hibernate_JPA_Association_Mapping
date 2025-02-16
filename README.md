@@ -10,5 +10,5 @@ Image:- OneToMany Uni-Directional Mapping Table Structure Image
 ![Alt text](/OneToManyUni.png "optional title")
 
 
-Image:- OneToMany Bi-Directional Mapping Table Structure Image
-![Alt text](/OneToManyBi.png "optional title")
+Image:- ManyToOneUni-Directional Mapping Table Structure Image
+![Alt text](/ManyToOneUni.png "optional title")
